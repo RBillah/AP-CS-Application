@@ -1,5 +1,5 @@
 --> RaycastService (Provides necessary functionality and abstraction)
---> Credits: @Raiden
+--> Credits: @Ryan_Billah
 --> Date: 5/16/21
 
 local ReplicatedStorage = game:GetService('ReplicatedStorage')
